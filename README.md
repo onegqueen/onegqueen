@@ -3,8 +3,6 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onegqueen&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com//github-readme-stats) 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwldnjs30)](https://solved.ac/rkdwldnjs30/)
 
   # 💪Skills
